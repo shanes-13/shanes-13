@@ -13,3 +13,4 @@
 </h1>
 <img src="https://github.com/shanes-13/shanes-13/" alt=""/>
 - :telescope: I’m working as a Software Engineer
+### :hammer_and_wrench: Languages and Tools :
